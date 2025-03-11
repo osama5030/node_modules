@@ -1,0 +1,55 @@
+{
+  "hash": "a6bc3be6",
+  "configHash": "2e8001b2",
+  "lockfileHash": "a9663e12",
+  "browserHash": "9292d734",
+  "optimized": {
+    "react": {
+      "src": "../../react/index.js",
+      "file": "react.js",
+      "fileHash": "f093d30d",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "6aac96e5",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "79a9ac21",
+      "needsInterop": true
+    },
+    "framer-motion": {
+      "src": "../../framer-motion/dist/es/index.mjs",
+      "file": "framer-motion.js",
+      "fileHash": "d4a2fb5e",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "d4dc67a6",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "7bd85d4f",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-RLMGAKMB": {
+      "file": "chunk-RLMGAKMB.js"
+    },
+    "chunk-ALTXS7HN": {
+      "file": "chunk-ALTXS7HN.js"
+    },
+    "chunk-2YIMICFJ": {
+      "file": "chunk-2YIMICFJ.js"
+    }
+  }
+}
